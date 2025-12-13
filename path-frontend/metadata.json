@@ -1,0 +1,5 @@
+{
+  "name": "PathFinder AI - 智能职业规划师",
+  "description": "基于 Gemini AI 的深度职业规划测试工具。通过多维度心理与能力评估，为您生成个性化的职业发展报告、适合的岗位推荐及学习路径。",
+  "requestFramePermissions": []
+}
